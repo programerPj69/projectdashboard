@@ -15,10 +15,10 @@ A responsive and interactive dashboard showcasing various project categories: **
 
 ## Technologies Used
 
-~~~- **HTML5**: Structure and layout.
+- **HTML5**: Structure and layout.
 - **CSS3**: Styling and responsiveness.
 - **JavaScript (Optional)**: Add interactivity (e.g., button actions).
-~~~
+
 
 ---
 
@@ -40,27 +40,27 @@ project-dashboard│
 ├── style.css        # CSS for styling the dashboard
 └── script.js        # Optional JavaScript for interactivity
 ~~~
-`How to Use
-``Each card represents a project category:
-```Frontend Projects: Focuses on UI/UX and client-side development.
-Fullstack Projects: Covers both frontend and backend projects.
-App Development: Includes mobile and desktop app projects.
-Notes: Provides resources and learning material.
-Click on the View button in each card to proceed (currently, buttons can be linked to specific pages).
-Customization
-```
+### How to Use
+-Each card represents a project category:
+-Frontend Projects: Focuses on UI/UX and client-side development.
+-Fullstack Projects: Covers both frontend and backend projects.
+-App Development: Includes mobile and desktop app projects.
+-Notes: Provides resources and learning material.
+-Click on the View button in each card to proceed (currently, buttons can be linked to specific pages).
+-Customization
+
 ### To Add a New Card:
 
-Open index.html.
+-Open index.html.
 Copy an existing card's code block and modify the content.
 To Update Styles:
 
-Open style.css.
+-Open style.css.
 Adjust colors, fonts, or layout as needed.
 Contribution
 Contributions are welcome! If you find a bug or have an idea for improvement, feel free to fork the repo and submit a pull request.
 
-License
+###License
 This project is licensed under the MIT License.
 
 
