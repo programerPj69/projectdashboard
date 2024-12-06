@@ -30,14 +30,15 @@ Navigate to the project directory:
 
 ```cd project-dashboard```
 Open the index.html file in your browser to view the dashboard.
-File Structure
-graphql
-#Copy code
-project-dashboard/
+#File Structure
+
+
+~~~project-dashboard
 │
 ├── index.html       # Main HTML file
 ├── style.css        # CSS for styling the dashboard
 └── script.js        # Optional JavaScript for interactivity
+~~~
 How to Use
 Each card represents a project category:
 Frontend Projects: Focuses on UI/UX and client-side development.
